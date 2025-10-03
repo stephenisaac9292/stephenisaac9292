@@ -8,7 +8,7 @@ I build projects to learn, not the other way around.
 
 ## Stack I've Touched
 
-**Languages:** [List yours - e.g., JavaScript, Python, Go, TypeScript, etc.]
+**Languages:** Typescript(React, Nesjs), Python(Django, FastApi)
 
 **Things I've Learned By Building:**
 - Redis (caching, sessions, real-time data)
