@@ -1,13 +1,25 @@
-## Hi there 👋
+# Hey, I'm Isaac! 👋
 
- Hi, I’m Stephen 👋
-I’m a Computer Engineering student and Junior Frontend Developer.  
+I break things to understand how they work.
 
-💻 **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, React, Next.js  
+## What I Do
 
-📂 **Projects:**  
-- [Portfolio Website](https://your-portfolio-link)  
-- [Bella Vista Frontend](https://live-link)  
-- [Coursera Restaurant Site](https://live-link)  
+I build projects to learn, not the other way around. 
 
-🌐 **Connect with me:** [LinkedIn](your-link)
+## Stack I've Touched
+
+**Languages:** [List yours - e.g., JavaScript, Python, Go, TypeScript, etc.]
+
+**Things I've Learned By Building:**
+- Redis (caching, sessions, real-time data)
+- Docker (containerization, environments)
+- CI/CD Pipelines (automation, deployments)
+- IaaS (infrastructure, cloud services)
+- Microservices (distributed systems, architecture)
+
+I don't believe in "mastering one framework." I believe in using the right tool for the job – which means knowing a lot of tools.
+
+## Philosophy
+
+Every abandoned project is a lesson learned. Every completed one is a milestone. I'm collecting both.
+
