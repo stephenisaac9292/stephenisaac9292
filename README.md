@@ -1,4 +1,4 @@
-# Hey, I'm Isaac! 👋
+Hey!, I'm Isaac! 
 
 I break things to understand how they work.
 
